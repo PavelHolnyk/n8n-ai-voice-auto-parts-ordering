@@ -1,5 +1,3 @@
-![AI voice assistant for auto parts phone orders](ai-voice-auto-parts-cover.png)
-
 # AI Voice Assistant for Auto Parts Phone Orders
 
 **ElevenLabs · n8n · Zoho CRM · OpenAI · Google Sheets**
@@ -21,6 +19,10 @@ Incoming call → ElevenLabs voice agent Kristina → exact-article product look
 - Summarize the order and create it after explicit customer confirmation.
 - Store product rows, total amount, delivery method and payment method in Zoho CRM.
 - Analyze completed calls and save outcomes in Google Sheets and CRM conversation records.
+
+## Workflow
+
+[![n8n workflow](workflow.png)](workflow.png)
 
 ## Results
 
@@ -57,3 +59,4 @@ ElevenLabs Conversational AI, n8n, Zoho CRM API, OpenAI API, Google Sheets API, 
 **Pavlo Holnyk — AI Automation & AI Agents**
 
 [Portfolio](https://tangy-whitefish-6d0.notion.site/408c12839d06816f9e61ff1aa7392587) · [LinkedIn](https://www.linkedin.com/in/pavlo-holnyk/) · [Upwork](https://www.upwork.com/freelancers/~011ee82fd5725aa92e)
+
