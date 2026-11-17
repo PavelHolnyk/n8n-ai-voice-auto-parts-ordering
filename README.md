@@ -1,3 +1,5 @@
+![AI voice assistant for auto parts phone orders](ai-voice-auto-parts-cover.png)
+
 # AI Voice Assistant for Auto Parts Phone Orders
 
 **ElevenLabs · n8n · Zoho CRM · OpenAI · Google Sheets**
